@@ -5,7 +5,7 @@ import (
 	"sync"
 	//"testing"
 	"time"
-	"lokmane/dht"
+	"/src/lokmane/dht"
 )
 
 func main() {
