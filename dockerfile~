@@ -19,7 +19,7 @@ RUN go install github.com/loklek-5/lokmane
 
 
 # Run the outyet command by default when the container starts.
-#ENTRYPOINT ["/go/bin/loklek-5/lokmane"]
+ENTRYPOINT ["/go/bin/loklek-5/lokmane"]
 
 
 # default command
